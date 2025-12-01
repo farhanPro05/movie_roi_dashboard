@@ -37,6 +37,6 @@ source ./.venv/bin/activate
 ```bash
 pip install -r requirements.txt
 ```
-4. Run all the cells of scrapper.ipynb file.
+4. Run all the cells of scraper.ipynb file.
 5. You will get a file named `movies_roi.csv` containing all the required fields.
 Alternatively, check my scraped data here: https://github.com/farhanPro05/movie_roi_dashboard/blob/main/movies_roi.csv
