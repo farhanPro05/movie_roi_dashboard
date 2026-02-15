@@ -39,7 +39,7 @@ pip install -r requirements.txt
 ```
 4. Run the scraper
 ```bash
-python3 scraper.py
+python scraper.py
 ```
 5. You will get a file named `movies_roi.csv` containing all the required fields.
 Alternatively, check my scraped data here: https://github.com/farhanPro05/movie_roi_dashboard/blob/main/movies_roi.csv
