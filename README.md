@@ -43,5 +43,5 @@ python3 scraper.py
 ```
 5. You will get a file named `movies_roi.csv` containing all the required fields.
 Alternatively, check my scraped data here: https://github.com/farhanPro05/movie_roi_dashboard/blob/main/movies_roi.csv
-6. Prepare the data by running the cells of `data_preparation.ipynb` file.
+6. Prepare the data by running the cells of `data_prep.ipynb` file.
 7. Build the dashboard using the prepared data.
